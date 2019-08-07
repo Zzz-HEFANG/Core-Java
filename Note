@@ -1,0 +1,2 @@
+Object: 所有类的超类
+在JAVA中 每一个类都是由Object类扩展而来。
